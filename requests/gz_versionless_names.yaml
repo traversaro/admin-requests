@@ -34,3 +34,6 @@ feedstock_to_output_mapping:
   - gz-utils: "gz-utils"
   - gz-tools2: "libgz-tools"
   - gz-tools2: "gz-tools"
+  - libsdformat: libsdformat
+  - libsdformat: sdformat-python
+  - sdformat: sdformat
